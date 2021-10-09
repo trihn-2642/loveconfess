@@ -7,7 +7,7 @@ $("#open").click(function () {
         "^1000Gửi cậu...",
         "À sai rồi!!!",
         "Phải là...",
-        "Gửi người tớ yêu!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn tớ, tớ muốn dành cả phần đời còn lại để yêu cậu, để mang lại hạnh phúc cho cậu! Nhưng mà...<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cậu lại không yêu tớ!!!<br><p style='float:right; display:block; width:auto; margin-right: 5px'>Người Yêu Cậu <img id='heart' src='/images/favicon.ico' /></p>",
+        "Gửi người tớ yêu!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn tớ, tớ muốn dành cả phần đời còn lại để yêu cậu, để mang lại hạnh phúc cho cậu! Nhưng mà...<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cậu lại không yêu tớ!!!<br><p style='float:right; display:block; width:auto; margin-right: 5px'>Người Yêu Cậu <i class='fas fa-heart-broken' id='heart'></i></p>",
       ],
       typeSpeed: 50,
       backSpeed: 30,
